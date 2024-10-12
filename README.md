@@ -1,5 +1,4 @@
-# Project Dashboard
-
+# freelancer- management
 A simple dashboard application built with React that allows users to manage projects, track earnings, and handle payments. The app features a bar chart to visualize project earnings and a form to add new projects.
 
 ## Features
@@ -17,16 +16,3 @@ A simple dashboard application built with React that allows users to manage proj
 - Chart.js (for bar chart visualization)
 - React-Toastify (for notifications)
 - Bootstrap (for styling)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-Usage
-Fill out the project form to add new projects.
-Manage project statuses and view total earnings.
-Track payments and update their status.
-Contributing
-If you'd like to contribute to this project, please fork the repository and create a pull request. Any improvements or bug fixes are welcome!
